@@ -18,21 +18,35 @@
         "naam": "Doe",
         "voornaam": "John",
         "geboortemaand": 12,
-        "geboortejaar": 2000
+        "geboortejaar": 2000,
+        "datum_van_de_eerste_insulinetoediening": "2013-07-01T22:00:00.000Z"
     },
     "datacollectie": {
         "algemeen": {
             "taalproblemen": {
                 "selectedChoices": {}
             },
-            "puberteitprepuberteit": {},
-            "insulineschema": {}
+            "puberteitprepuberteit": {
+                "selectedChoice": "Prepuberteit"
+            },
+            "insulineschema": {
+                "selectedChoice": "Insulinepomp"
+            },
+            "de_patient_was_gedurende_het_ganse_kalenderjaar_in_behandeling_bij_dit_centrum": false,
+            "datum_van_de_meest_recente_consultatie": "2013-12-11T23:00:00.000Z",
+            "kerngezin": true
         },
         "metingen": {
-            "lengte": {},
+            "lengte": {
+                "lengte_cm": 220
+            },
             "gewicht": {},
-            "systolische_bloeddruk": {},
-            "diastolische_bloeddruk": {}
+            "systolische_bloeddruk": {
+                "systolische_bloeddruk_mmhg": 120
+            },
+            "diastolische_bloeddruk": {
+                "diastolische_bloeddruk_mmhg": 100
+            }
         },
         "screenings": {
             "coeliakie": {
