@@ -19,7 +19,14 @@
         "voornaam": "John",
         "geboortemaand": 12,
         "geboortejaar": 2000,
-        "datum_van_de_eerste_insulinetoediening": "2013-07-01T22:00:00.000Z"
+        "datum_van_de_eerste_insulinetoediening": "2013-07-01T22:00:00.000Z",
+        "address": {
+            "googleplace": "Chaussée de Wavre 480, Etterbeek, Belgium",
+            "number": "480",
+            "street": "Chaussée de Wavre",
+            "city": "Etterbeek",
+            "postalCode": "1040"
+        }
     },
     "datacollectie": {
         "algemeen": {
